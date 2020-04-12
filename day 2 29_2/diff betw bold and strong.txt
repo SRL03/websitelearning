@@ -1,0 +1,1 @@
+The difference between the two HTML tags is that bold makes text only visually look bold, while strong also semantically emphasizes the respective text as important and indicates that it is a meaningful word or text section.
